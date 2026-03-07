@@ -1,4 +1,4 @@
-# 🎮 MultiLoc-LLM: Specialized LLM for Game Localization
+# 🎮 MultiGameLoc-LLM: Specialized LLM for Game Localization
 
 This repository contains an end-to-end pipeline to fine-tune **Meta's Llama-3-8B** for professional game localization tasks. The model is specifically optimized to handle game-specific context and terminology between **English, Turkish, and German**.
 
