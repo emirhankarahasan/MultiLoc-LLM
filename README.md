@@ -11,7 +11,7 @@ This repository contains an end-to-end pipeline to fine-tune **Meta's Llama-3-8B
 ## 📁 Repository Structure
 - `*.ipynb`: The complete Google Colab notebook containing setup, training, and inference steps.
 - `*.jsonl`: The cleaned multilingual dataset used for fine-tuning.
-- **Hugging Face Model:** [MODEL_LİNKİNİ_BURAYA_YAPIŞTIR]
+- **Hugging Face Model:** [https://huggingface.co/emirhankarahasan/MultiGameLoc-Llama-3-8B]
 
 ## 🛠 Skills Demonstrated
 - **Data Engineering:** Extracting and formatting raw game strings into LLM-ready JSONL.
